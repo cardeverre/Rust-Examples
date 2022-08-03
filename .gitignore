@@ -48,7 +48,7 @@ no_llvm_build
 .#*
 
 /1 - Hello World/hello-rust/target/*
-/1 - Hello World/guessing_game/target/*
+/2 - Guessing Game/guessing_game/target/*
 
 ## Tags
 tags
