@@ -48,6 +48,7 @@ no_llvm_build
 .#*
 
 /1 - Hello World/hello-rust/target/*
+/1 - Hello World/guessing_game/target/*
 
 ## Tags
 tags
@@ -69,3 +70,4 @@ package.json
 src/test/rustdoc-gui/src/**.lock
 
 # Before adding new lines, see the comment at the top.
+1 - Hello World/guessing_game/target/debug/.fingerprint/guessing_game-aa0edc66eca73f3a/invoked.timestamp
