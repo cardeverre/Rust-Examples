@@ -1,0 +1,6 @@
+Command to start new project: cargo new project name
+Ref:
+https://www.rust-lang.org/learn/get-started
+
+Finding new dependancies for a project:
+https://crates.io/ 
