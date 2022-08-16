@@ -11,3 +11,7 @@ By default, Rust has a set of items defined in the standard library that it brin
 https://doc.rust-lang.org/std/prelude/index.html
 
 Note: You won’t just know which traits to use and which methods and functions to call from a crate, so each crate has documentation with instructions for using it. Another neat feature of Cargo is that running the cargo doc --open command will build documentation provided by all of your dependencies locally and open it in your browser. If you’re interested in other functionality in the rand crate, for example, run cargo doc --open and click rand in the sidebar on the left.
+
+Keywords
+The Rust language has a set of keywords that are reserved for use by the language only, much as in other languages. Keep in mind that you cannot use these words as names of variables or functions. 
+https://doc.rust-lang.org/book/appendix-01-keywords.html
