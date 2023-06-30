@@ -51,6 +51,7 @@ no_llvm_build
 /2 - Guessing Game/guessing_game/target/*
 /3 - Variables/variables/target/*
 /4 - Functions/functions/target/*
+/5 - 2D Snake Game/snakegame/target/*
 
 ## Tags
 tags
